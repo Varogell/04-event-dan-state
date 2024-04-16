@@ -35,3 +35,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 ### Praktikum 2
+
+![Screenshot](assets/02.png)
+
+### Praktikum 3
+
+![Screenshot](assets/03.png)
