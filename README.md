@@ -41,3 +41,35 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ### Praktikum 3
 
 ![Screenshot](assets/03.png)
+
+### Praktikum 4
+
+![Screenshot](assets/04.png)
+
+### soal
+Jika kita menekan tombol "Artikel Selanjutnya" sebanyak 5x (atau melebihi halaman total artikel), apa yang akan terjadi?
+
+### Jawaban
+menambahkan tombol kembali
+
+### Praktikum 5
+
+![Screenshot](assets/05.png)
+
+terjadi error saat submit
+
+### Praktikum 6
+
+![Screenshot](assets/06.png)
+
+### soal 1 
+Apa tujuan dari penulisan ini key={to.email} pada < Chat key={to.email} contact={to} / > ?
+### Jawaban 1
+
+ tujuan untuk memberikan React sebuah referensi unik untuk setiap elemen dalam daftar. Properti key digunakan oleh React untuk membedakan satu elemen dari elemen lain dalam sebuah daftar, sehingga React dapat mengidentifikasi elemen mana yang harus diperbarui, dihapus, atau ditambahkan saat daftar tersebut mengalami perubahan.
+
+### soal 2
+Apa fungsi dari props key tersebut?
+
+### Jawaban 2
+ sebagai identifikasi unik untuk setiap elemen dalam daftar komponen
